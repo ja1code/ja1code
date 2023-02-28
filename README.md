@@ -1,1 +1,1 @@
-![waves](https://github.com/ja1code/ja1code/img/pattern.png)
+![waves](https://github.com/ja1code/ja1code/raw/main/img/pattern.png)
