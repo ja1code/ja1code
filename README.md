@@ -1,1 +1,1 @@
-# WIP
+![waves](https://github.com/ja1code/ja1code/img/pattern.png)
