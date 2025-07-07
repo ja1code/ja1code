@@ -1,1 +1,1 @@
-![Test this image](https://ee426f959cae.ngrok-free.app/ai-text.png?prompt=Hello)
+![Test this image](https://ee426f959cae.ngrok-free.app/ai-text.png)
