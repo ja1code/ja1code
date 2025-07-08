@@ -6,7 +6,7 @@ Minha missão recente é tornar as respostas geradas por LLMs mais confiáveis e
 ⸻
 
 ### Confio tanto em LLMs que deixei uma delas gerar uma mensagem especial só para você:
-![Something went wrong :(]https://readme.ja1code.dev/ai-text.png)
+![Something went wrong]https://readme.ja1code.dev/ai-text.png)
 
 ⸻
 
