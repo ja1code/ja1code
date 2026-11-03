@@ -1,8 +1,8 @@
 ### 👋 Olá, me chamo João!
 
-Sou CTO na tbd, e atualmente passo boa parte do meu tempo lidando diretamente com Large Language Models (LLMs), encontrando maneiras de usá-las em aplicativos que entregam valor real!
+Sou CTO na 7Sense e estamos com a missão de construir as estruturas que ligam o mundo físico com o digital para AI.
 
-Minha missão recente é encontrar e explorar maneiras de tornar LLMs mais confiáveis e úteis no mundo real, além de criar ferramentas e automações usando o que for necessário para facilitar o dia a dia da equipe e tornar nossas aplicações mais robustas.
+Atualmente, boa parte do meu tempo tem sido buscando como equilibrar o rápido desenvolvimento de software com IA e processos tradicionais de qualidade e segurança.
 
 ⸻
 
